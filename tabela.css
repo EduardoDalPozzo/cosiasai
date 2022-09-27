@@ -1,0 +1,23 @@
+#tabela {
+
+	font-size:35px;
+	font-weight:200;
+	padding:2px;
+	border:solid 5px #000000;
+	font-style:italic;
+}
+
+td {
+border: solid 3px #000;
+padding:6px;
+}
+
+thead {
+background:#f00;
+font-weight:900;
+font-style:normal;
+}
+/*[edu}     /"*._         _
+      .-*'`    `*-.._.-'/
+    < * ))     ,       ( 
+      `*-._`._(__.--*"`.\v
