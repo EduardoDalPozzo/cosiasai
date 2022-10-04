@@ -1,0 +1,61 @@
+
+
+form label {
+display:block;
+ font-size: 30px;
+ padding:4px;
+font-weight: 900;
+
+
+}
+
+
+form input {
+display: block;
+  margin: 0 0 20px; 
+   padding: 10px 80px;
+   font-weight:900;
+
+}
+
+select {
+	font-size:30px;
+	margin-bottom:50px;
+	float:;
+
+
+}
+
+h1 {
+
+font-size:60px;
+font-weight:999;
+color:#D1642A;
+text-decoration:underline;
+font-family:fantasy;
+text-decoration:;
+
+
+}
+
+#div1  {
+background:#FAE3E8;
+border:solid #211A29 50px;
+}
+
+
+#div2 {
+background:#9491B5;
+border:solid #211A29 40px;
+
+}
+
+#div3 {
+background:#F8E7D5;
+border:solid #211A29 50px;
+}
+
+#aoao {
+ display:inline-block;
+	font size:250px;
+}
