@@ -1,0 +1,52 @@
+div {
+    display:inline-block;
+    width:1800px;
+    background:#4c4c52
+}
+h1 {
+    font-size:80px;
+    color:#c55;
+    border:4px groove #b33;
+    padding:8px;
+    background:rgb(14, 13, 15);
+    font-style:italic;
+    margin-left:150px;
+margin-right:150px;
+}
+
+h1:hover {
+    transform:rotate(1080deg);
+    transition-duration:4s;
+    background:white
+}
+
+p {
+font-size:30px;
+color:rgb(112, 43, 168);
+border:4px solid rgb(197, 184, 207);
+margin-left:200px;
+margin-right:200px;
+background:white;
+}
+
+p:hover {
+background:rgb(172, 178, 255);
+border:4px solid rgb(60, 44, 73);
+}
+
+img {
+height:110px;
+width:110px;
+opacity:10%; 
+scale:10%;
+}
+
+
+img:hover {
+    height:110px;
+    width:110px;
+    opacity:100%; 
+    scale:1100%;
+    transition-delay:0.3s;
+    transition-duration:0.2s;
+    }
